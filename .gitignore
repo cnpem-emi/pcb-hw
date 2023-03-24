@@ -60,4 +60,6 @@ fp-info-cache
 *.ses
 
 # backups
-/*-backups
+*-backups/
+
+\#auto_saved_files\#
